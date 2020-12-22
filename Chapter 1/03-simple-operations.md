@@ -33,5 +33,5 @@ Operator | Description | Example | Solution
 `-` | Subtraction | 16 - 6 | 10
 `-` | Multiplication | 6 * 16 | 96
 `/` | Division | 12 / 6 | 2
-`%` | Modulus | 12 / 7 | 5
+`%` | Modulus | 12 % 7 | 5
 `//` | Floor division | 9 // 2 | 4
